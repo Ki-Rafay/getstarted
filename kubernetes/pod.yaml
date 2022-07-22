@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: busybox1-sleep
+  name: busybox-sleep
 spec:
   containers:
   - name: busybox
